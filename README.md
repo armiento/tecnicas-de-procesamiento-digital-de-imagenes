@@ -1,3 +1,4 @@
+
 # Técnicas de procesamiento digital de imágenes
 
 ## Integrantes
@@ -9,7 +10,7 @@
 
 ---
 
-## Descripción
+## Descripci
 
 Script en Python que permite cargar una imagen, aplicar tres técnicas distintas de procesamiento y guardar los resultados en disco. Desarrollado con **Pillow** y **OpenCV**.
 
